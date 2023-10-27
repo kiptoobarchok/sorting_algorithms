@@ -4,7 +4,6 @@
 
 
 /*Libraries*/
-#include <stdlib.h>
 #include <stdio.h>
 
 /*Function prototypes*/
